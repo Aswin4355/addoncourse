@@ -1,0 +1,12 @@
+.bo{
+    background-color: black;
+    color: chartreuse;
+    padding: 20px;
+    margin-left:30px ;
+    width: 30px;;
+}
+.fcont{
+        display: flex;
+        background-color: chartreuse;
+        width: 350px;
+}

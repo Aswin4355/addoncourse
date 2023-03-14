@@ -1,0 +1,22 @@
+.p{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+
+}
+.t10{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color:beige;
+    height: 25vh;
+    width: 25vh;
+    border: 1px solid blue;
+}
+.box{
+    background-color: black;
+    color: chartreuse;
+    padding: 20px;
+    width: 20px;;
+}

@@ -1,0 +1,13 @@
+
+.imgcont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.img1{
+    height:100vh;
+    width: 100vh;
+}
+

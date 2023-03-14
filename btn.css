@@ -1,0 +1,8 @@
+.btn{
+    background-color: blue;
+    color:aliceblue
+}
+.btn:hover{
+        background-color: crimson;
+        cursor: pointer;
+}
